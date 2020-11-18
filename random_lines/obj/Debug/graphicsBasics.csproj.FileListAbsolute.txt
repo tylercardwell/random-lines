@@ -1,0 +1,10 @@
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\bin\Debug\graphicsBasics.exe.config
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\bin\Debug\graphicsBasics.exe
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\bin\Debug\graphicsBasics.pdb
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\obj\Debug\graphicsBasics.csprojAssemblyReference.cache
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\obj\Debug\graphicsBasics.Form1.resources
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\obj\Debug\graphicsBasics.Properties.Resources.resources
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\obj\Debug\graphicsBasics.csproj.GenerateResource.cache
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\obj\Debug\graphicsBasics.csproj.CoreCompileInputs.cache
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\obj\Debug\graphicsBasics.exe
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-01-graphics-basics\obj\Debug\graphicsBasics.pdb
